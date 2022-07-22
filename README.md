@@ -45,6 +45,6 @@ First year student at Computer Science Department
 Passed class 12 with 95.2% mark under Central Board Of Secondary Eucation.
 <h3>Cochin Public School (2018-2019)</h3>
 <h4>Higher Secondary</h4>
-Passed class 10 with 98.8% marks including 100 marks in social
+Passed class 10 with 98.8% marks including 100 marks in Social
  Science under Central Board Of Secondary Education
 
