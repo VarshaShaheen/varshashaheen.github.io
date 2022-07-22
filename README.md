@@ -1,6 +1,6 @@
 # Hi! Iam Varsha Shaheen
 
-<image src=https://raw.githubusercontent.com/VarshaShaheen/varshashaheen.github.io/main/WhatsApp%20Image%202022-06-20%20at%208.09.26%20PM.jpeg width="300" height="300" align="right"></image>
+<image src=https://raw.githubusercontent.com/VarshaShaheen/varshashaheen.github.io/main/WhatsApp%20Image%202022-06-20%20at%208.09.26%20PM.jpeg ></image>
 
 <p> 
 	Iam a first year Computer Science student from School of Engineering, Cochin University of Science and Technology. Connect with me if you have something fascinating to share because I love learning new things.
