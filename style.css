@@ -1,0 +1,12 @@
+
+.icon {
+  color:gray;
+  transition:color 0.2s;
+  text-decoration: none;
+  font-size: x-large;
+  margin-right: 20px;
+}
+
+  .icon:hover {
+    color: white;
+  }
